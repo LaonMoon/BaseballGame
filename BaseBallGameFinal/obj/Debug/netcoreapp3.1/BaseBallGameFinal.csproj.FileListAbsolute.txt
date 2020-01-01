@@ -1,0 +1,11 @@
+C:\Users\laonm\source\repos\BaseBallGameFinal\BaseBallGameFinal\obj\Debug\netcoreapp3.1\BaseBallGameFinal.csprojAssemblyReference.cache
+C:\Users\laonm\source\repos\BaseBallGameFinal\BaseBallGameFinal\obj\Debug\netcoreapp3.1\BaseBallGameFinal.AssemblyInfoInputs.cache
+C:\Users\laonm\source\repos\BaseBallGameFinal\BaseBallGameFinal\obj\Debug\netcoreapp3.1\BaseBallGameFinal.AssemblyInfo.cs
+C:\Users\laonm\source\repos\BaseBallGameFinal\BaseBallGameFinal\bin\Debug\netcoreapp3.1\BaseBallGameFinal.exe
+C:\Users\laonm\source\repos\BaseBallGameFinal\BaseBallGameFinal\bin\Debug\netcoreapp3.1\BaseBallGameFinal.deps.json
+C:\Users\laonm\source\repos\BaseBallGameFinal\BaseBallGameFinal\bin\Debug\netcoreapp3.1\BaseBallGameFinal.runtimeconfig.json
+C:\Users\laonm\source\repos\BaseBallGameFinal\BaseBallGameFinal\bin\Debug\netcoreapp3.1\BaseBallGameFinal.runtimeconfig.dev.json
+C:\Users\laonm\source\repos\BaseBallGameFinal\BaseBallGameFinal\bin\Debug\netcoreapp3.1\BaseBallGameFinal.dll
+C:\Users\laonm\source\repos\BaseBallGameFinal\BaseBallGameFinal\bin\Debug\netcoreapp3.1\BaseBallGameFinal.pdb
+C:\Users\laonm\source\repos\BaseBallGameFinal\BaseBallGameFinal\obj\Debug\netcoreapp3.1\BaseBallGameFinal.dll
+C:\Users\laonm\source\repos\BaseBallGameFinal\BaseBallGameFinal\obj\Debug\netcoreapp3.1\BaseBallGameFinal.pdb
